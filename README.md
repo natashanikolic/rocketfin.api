@@ -1,49 +1,36 @@
-# RocketFin API
+# RocketFin Project Setup
 
-RocketFin API is a .NET backend service for handling portfolio management
+This document provides setup instructions for the RocketFin API and Client projects.
 
 ## Table of Contents
-1. [Getting Started](#getting-started)
-2. [Prerequisites](#prerequisites)
-3. [Installation](#installation)
+1. [Clone the Repositories](#clone-the-repositories)
+2. [Client Setup](#client-setup)
+3. [API Setup](#api-setup)
 
 ---
 
-## Getting Started
+## Clone the Repositories
 
-These instructions will help you set up the RocketFin API on your local machine for development and testing.
-
-## Prerequisites
-
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server) (local or Docker container)
-- [Docker](https://www.docker.com/) (for containerized deployment)
-- [Node.js 18](https://nodejs.org/) (for the Angular frontend)
-
-## Installation
-
-1. **Clone the repositories:**
-
-   ```bash
+1.
+  **Clone the API repository:**
    git clone https://github.com/your-repo/rocketfin-api.git
    cd rocketfin-api
 
-     ```bash
-   git clone https://github.com/your-repo/rocketfin-client.git
-   cd rocketfin-api
+ **Clone the Client repository:**
+   git clone https://github.com/your-repo/rocketfin-api.git
+   cd rocketfin-client
 
-2. **Build projects:**
+## API Setup
 
-   **Client**
+1. **Navigate to the API project directory**:
+
    ```bash
-   1. npm install
-   2. ng serve
-
-
-   **API**
-   ```bash
-   1. dotnet build
-   2. change to RocketFinInfrastructure to run migrations dotnet ef --startup-project ../RocketFinApi/ migrations add InitialCreate --context PortfolioDbContext
-   3. API > dotnet run
-
+   cd ../rocketfin-api
    
+   dotnet build
+   
+   cd RocketFinInfrastructure
+   
+   dotnet ef --startup-project ../RocketFinApi/ migrations add InitialCreate --context PortfolioDbContext
+   
+   dotnet run --project RocketFinApi
