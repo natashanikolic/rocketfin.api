@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6CDB21-4FB1-48DE-A988-B81A2A70C091}|RocketFinApi.csproj|c:\\users\\natashanikolic\\documents\\github\\rocketfin.api\\rocketfinapi\\unittests\\tradeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F6CDB21-4FB1-48DE-A988-B81A2A70C091}|RocketFinApi.csproj|solutionrelative:unittests\\tradeservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F6CDB21-4FB1-48DE-A988-B81A2A70C091}|RocketFinApi.csproj|c:\\users\\natashanikolic\\documents\\github\\rocketfin.api\\rocketfinapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5F6CDB21-4FB1-48DE-A988-B81A2A70C091}|RocketFinApi.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TradeServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinApi\\UnitTests\\TradeServiceTests.cs",
+              "RelativeDocumentMoniker": "UnitTests\\TradeServiceTests.cs",
+              "ToolTip": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinApi\\UnitTests\\TradeServiceTests.cs",
+              "RelativeToolTip": "UnitTests\\TradeServiceTests.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:36:56.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinApi\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinApi\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-01T17:18:39.696Z",
+              "EditorCaption": ""
             }
           ]
         }

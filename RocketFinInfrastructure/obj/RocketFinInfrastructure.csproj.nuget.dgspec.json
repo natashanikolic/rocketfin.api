@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj": {}
+    "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj": {
+    "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj",
+        "projectUniqueName": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj",
         "projectName": "RocketFinDomain",
-        "projectPath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj",
+        "projectPath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj",
         "packagesPath": "C:\\Users\\NatashaNikolic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinDomain\\obj\\",
+        "outputPath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj": {
+    "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj",
         "projectName": "RocketFinInfrastructure",
-        "projectPath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj",
+        "projectPath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinInfrastructure\\RocketFinInfrastructure.csproj",
         "packagesPath": "C:\\Users\\NatashaNikolic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinInfrastructure\\obj\\",
+        "outputPath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
@@ -102,8 +102,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj": {
-                "projectPath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj"
+              "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj": {
+                "projectPath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinDomain\\RocketFinDomain.csproj"
               }
             }
           }

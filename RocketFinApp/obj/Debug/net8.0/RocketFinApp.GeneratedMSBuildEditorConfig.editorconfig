@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RocketFinApp
-build_property.ProjectDir = C:\Users\NatashaNikolic\Desktop\rf\rocketfin.api\RocketFinApp\
+build_property.ProjectDir = C:\Users\NatashaNikolic\Documents\GitHub\rocketfin.api\RocketFinApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

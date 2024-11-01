@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("10fec5ea-16c1-480e-aac4-946877ed6b01")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RocketFinApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a698dd8f2e719f9e2e51a2dfa275fbbc655e59ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("RocketFinApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RocketFinApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LflM/RcosuI=",
+  "dgSpecHash": "4G9+pEyGii0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

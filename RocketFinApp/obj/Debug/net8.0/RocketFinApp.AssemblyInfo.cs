@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RocketFinApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a698dd8f2e719f9e2e51a2dfa275fbbc655e59ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("RocketFinApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RocketFinApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

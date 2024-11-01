@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kd5x8v6lVns=",
+  "dgSpecHash": "c+yY11/7Wfo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\NatashaNikolic\\Desktop\\rf\\rocketfin.api\\RocketFinApi\\RocketFinApi.csproj",
+  "projectFilePath": "C:\\Users\\NatashaNikolic\\Documents\\GitHub\\rocketfin.api\\RocketFinApi\\RocketFinApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
@@ -109,6 +109,7 @@
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.6\\microsoft.visualstudio.web.codegeneration.8.0.6.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.6\\microsoft.visualstudio.web.codegeneration.core.8.0.6.nupkg.sha512",
     "C:\\Users\\NatashaNikolic\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\8.0.6\\microsoft.visualstudio.web.codegeneration.design.8.0.6.nupkg.sha512",
