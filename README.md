@@ -6,14 +6,6 @@ RocketFin API is a .NET backend service for handling portfolio management
 1. [Getting Started](#getting-started)
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Running the API](#running-the-api)
-6. [API Endpoints](#api-endpoints)
-7. [Project Structure](#project-structure)
-8. [Testing](#testing)
-9. [Deployment](#deployment)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
@@ -42,11 +34,11 @@ These instructions will help you set up the RocketFin API on your local machine 
 
 2. **Build projects:**
 
-   client -
+   **Client**
    1. npm install
    2. ng serve
   
-   api -
+   **Api**
    1. dotnet build
    2. change to RocketFinInfrastructure to run migrations dotnet ef --startup-project ../RocketFinApi/ migrations add InitialCreate --context PortfolioDbContext
    3. API > dotnet run
