@@ -38,8 +38,9 @@ These instructions will help you set up the RocketFin API on your local machine 
    ```bash
    1. npm install
    2. ng serve
-  
-   **Api**
+
+
+**   **API**
    ```bash
    1. dotnet build
    2. change to RocketFinInfrastructure to run migrations dotnet ef --startup-project ../RocketFinApi/ migrations add InitialCreate --context PortfolioDbContext
